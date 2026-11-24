@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="410" viewBox="0 0 640 410" role="img" aria-labelledby="t d">
+  <title id="t">Hạt nguyên hay xay sẵn: khác nhau ở đâu</title>
+  <desc id="d">So sánh hạt nguyên và bột xay sẵn: hạt giữ tươi hàng tuần, ngon nhất 2–6 tuần khi túi chưa mở và 1–3 tuần khi đã mở, cần máy xay để tự chỉnh độ xay; bột bắt đầu mất hương sau 15–30 phút, ngon nhất 1–2 tuần sau khi mở gói, mở gói là pha ngay.</desc>
+  <rect width="640" height="410" fill="#f7efe6"/>
+<text x="320" y="36" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#4a2c14" font-weight="bold">Hạt nguyên hay xay sẵn: khác nhau ở đâu</text>
+<rect x="20" y="60" width="580" height="48" fill="#8b5a2b" stroke="#4a2c14" stroke-width="1.5" rx="0"/>
+<text x="28" y="89.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#ffffff" font-weight="bold"></text>
+<text x="178" y="89.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#ffffff" font-weight="bold">Hạt nguyên</text>
+<text x="393" y="89.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#ffffff" font-weight="bold">Bột xay sẵn</text>
+<rect x="20" y="108" width="580" height="48" fill="#ffffff" stroke="#4a2c14" stroke-width="1.5" rx="0"/>
+<text x="28" y="137.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">Giữ hương</text>
+<text x="178" y="128.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">Hạt giữ tươi</text>
+<text x="178" y="146.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">hàng tuần</text>
+<text x="393" y="128.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">Bắt đầu mất hương</text>
+<text x="393" y="146.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">sau 15–30 phút</text>
+<rect x="20" y="156" width="580" height="48" fill="#fff8ec" stroke="#4a2c14" stroke-width="1.5" rx="0"/>
+<text x="28" y="185.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">Ngon nhất</text>
+<text x="178" y="176.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">Túi chưa mở: 2–6 tuần</text>
+<text x="178" y="194.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">Túi đã mở: 1–3 tuần</text>
+<text x="393" y="176.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">1–2 tuần sau</text>
+<text x="393" y="194.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">khi mở gói</text>
+<rect x="20" y="204" width="580" height="48" fill="#ffffff" stroke="#4a2c14" stroke-width="1.5" rx="0"/>
+<text x="28" y="233.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">Mất hương</text>
+<text x="178" y="224.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">Chậm; hương bung</text>
+<text x="178" y="242.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">khi xay</text>
+<text x="393" y="224.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">Có thể mất đến 60%</text>
+<text x="393" y="242.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">hương sau 24 giờ</text>
+<rect x="20" y="252" width="580" height="48" fill="#fff8ec" stroke="#4a2c14" stroke-width="1.5" rx="0"/>
+<text x="28" y="281.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">Cần máy xay</text>
+<text x="178" y="281.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">Có — tự chỉnh độ xay</text>
+<text x="393" y="281.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">Không — mở gói pha ngay</text>
+<rect x="20" y="300" width="580" height="48" fill="#ffffff" stroke="#4a2c14" stroke-width="1.5" rx="0"/>
+<text x="28" y="329.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">Dùng tốt nhất</text>
+<text x="178" y="329.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">7–30 ngày sau rang</text>
+<text x="393" y="329.0" text-anchor="start" font-family="sans-serif" font-size="14" fill="#4a2c14">1–2 tuần sau khi xay</text>
+<rect x="20" y="60" width="580" height="288" fill="none" stroke="#4a2c14" stroke-width="2" rx="0"/>
+<line x1="20" y1="108" x2="600" y2="108" stroke="#4a2c14" stroke-width="1"/>
+<line x1="20" y1="156" x2="600" y2="156" stroke="#4a2c14" stroke-width="1"/>
+<line x1="20" y1="204" x2="600" y2="204" stroke="#4a2c14" stroke-width="1"/>
+<line x1="20" y1="252" x2="600" y2="252" stroke="#4a2c14" stroke-width="1"/>
+<line x1="20" y1="300" x2="600" y2="300" stroke="#4a2c14" stroke-width="1"/>
+<line x1="170" y1="60" x2="170" y2="348" stroke="#4a2c14" stroke-width="1"/>
+<line x1="385" y1="60" x2="385" y2="348" stroke="#4a2c14" stroke-width="1"/>
+<text x="320" y="372" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#555">Con số 60% là của Chocaphe, không kèm nghiên cứu trích dẫn.</text>
+<text x="320" y="398" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#777">Hình minh họa tự vẽ — không phải ảnh chụp thật</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="t d">
+  <title id="t">Nhiệt độ nước pha trà: trà xanh 80°C, trà sen ướp bông 80–85°C, trà sen ướp gạo sen 75–80°C, Shan Tuyết 90°C</title>
+  <desc id="d">Hình minh họa tự vẽ. Bốn thanh nhiệt độ: trà xanh 80 độ C, trà sen ướp bông 80–85 độ C, trà sen ướp gạo sen 75–80 độ C, trà Shan Tuyết 90 độ C. Nước sôi già 100 độ C làm trà xanh và trà sen chát gắt và mất hương; trà tâm sen và trà lá sen thì ngược lại, cần nước 90–100 độ C và hãm 5–10 phút.</desc>
+  <rect width="640" height="360" fill="#f7efe6"/>
+  <text x="320" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2f5233">Nhiệt độ nước cho từng loại trà</text>
+  <g font-family="sans-serif" font-size="15" fill="#2f5233">
+    <text x="40" y="90">Trà xanh</text>
+    <rect x="220" y="72" width="320" height="22" fill="#dfe8d5" stroke="#2f5233"/>
+    <rect x="220" y="72" width="256" height="22" fill="#7ba05b"/>
+    <text x="550" y="90">80°C</text>
+    <text x="40" y="140">Trà sen ướp bông</text>
+    <rect x="220" y="122" width="320" height="22" fill="#dfe8d5" stroke="#2f5233"/>
+    <rect x="220" y="122" width="272" height="22" fill="#c9a227"/>
+    <text x="550" y="140">80–85°C</text>
+    <text x="40" y="190">Trà sen ướp gạo sen</text>
+    <rect x="220" y="172" width="320" height="22" fill="#dfe8d5" stroke="#2f5233"/>
+    <rect x="220" y="172" width="240" height="22" fill="#e0b84f"/>
+    <text x="550" y="190">75–80°C</text>
+    <text x="40" y="240">Shan Tuyết</text>
+    <rect x="220" y="222" width="320" height="22" fill="#dfe8d5" stroke="#2f5233"/>
+    <rect x="220" y="222" width="288" height="22" fill="#4a7c59"/>
+    <text x="550" y="240">90°C</text>
+  </g>
+  <text x="320" y="290" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#555">Nước sôi 100°C làm trà xanh và trà sen chát gắt, mất hương.</text>
+  <text x="320" y="314" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#555">Trà tâm sen, trà lá sen thì ngược lại: cần nước 90–100°C, hãm 5–10 phút.</text>
+  <text x="320" y="350" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#777">Hình minh họa tự vẽ — không phải ảnh chụp thật</text>
+</svg>
