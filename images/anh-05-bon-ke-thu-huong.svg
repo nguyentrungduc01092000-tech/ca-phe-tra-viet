@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="t d">
   <title id="t">Bốn kẻ thù của hương cà phê: không khí, độ ẩm, nhiệt, ánh sáng</title>
-  <desc id="d">Hình minh họa được vẽ riêng cho website. Một hũ cà phê kín, tối màu đặt giữa, xung quanh là bốn yếu tố làm mất hương, mỗi yếu tố có dấu cấm: không khí làm dầu bị oxy hóa, độ ẩm làm cà phê mềm và mốc, nhiệt độ cao làm hương bay nhanh, ánh sáng làm phân hủy hợp chất tạo hương. Cách giữ hương: hũ kín, tối màu, để chỗ khô mát khoảng 20–25 độ C, mua lượng vừa đủ dùng trong 1–2 tuần.</desc>
+  <desc id="d">Một hũ cà phê kín, tối màu đặt giữa, xung quanh là bốn yếu tố làm mất hương, mỗi yếu tố có dấu cấm: không khí làm dầu bị oxy hóa, độ ẩm làm cà phê mềm và mốc, nhiệt độ cao làm hương bay nhanh, ánh sáng làm phân hủy hợp chất tạo hương. Cách giữ hương: hũ kín, tối màu, để chỗ khô mát khoảng 20–25 độ C, mua lượng vừa đủ dùng trong 1–2 tuần.</desc>
   <rect width="640" height="360" fill="#f7efe6"/>
   <text x="320" y="36" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#4a2c14">Bốn kẻ thù của hương cà phê</text>
   <g>
@@ -20,5 +20,5 @@
     <text x="420" y="333" font-size="13" font-weight="normal" fill="#555">Phân hủy hợp chất thơm</text>
   </g>
   <text x="320" y="60" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#555">Giữ hương: hũ kín, tối màu, chỗ khô mát 20–25°C, mua vừa đủ 1–2 tuần</text>
-  <text x="320" y="350" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#777">Hình minh họa được vẽ riêng cho website — không phải ảnh chụp thật</text>
+  <text x="320" y="350" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#777">Sơ đồ bốn kẻ thù của hương cà phê.</text>
 </svg>

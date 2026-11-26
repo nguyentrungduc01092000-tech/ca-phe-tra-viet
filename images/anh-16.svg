@@ -57,5 +57,5 @@
 <line x1="420" y1="60" x2="420" y2="380" stroke="#4a2c14" stroke-width="1"/>
 <text x="320" y="396" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#555">Lượng rót ra chỉ khoảng 80% dung tích ghi trên ấm.</text>
 <text x="320" y="420" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#555">Ấm 200ml rót ra khoảng 160ml, đủ 4 chén 40ml.</text>
-<text x="320" y="448" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#777">Hình minh họa được vẽ riêng cho website — không phải ảnh chụp thật</text>
+<text x="320" y="448" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#777">Bảng chọn ấm theo số người uống.</text>
 </svg>
